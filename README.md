@@ -9,15 +9,17 @@ Using the stock trade data provide an output a table with the following informat
 + Change of open price at year start to closing price at year end.
 + Change of open price at year start to closing price at year end as %
 + Volume of total traded stock.
-
-Format calculated % changes as follows:
+###### COMPLETED
+Format calculated % changes as follows: 
 + (+) Positive Green
 + (-) Negative Red 
 + (=) No Change White
-
+###### COMPLETED
+---
 ## Task #2
 
 Provide an output summary table for each year, on each sheet displaying:
 + Ticker Symbol with Greatest Percent Increase and % value
 + Ticker Symbol with Greatest Percent Decrease and % value
 + Ticker Symbol with Greatest Total Volume and value
+###### COMPLETED
