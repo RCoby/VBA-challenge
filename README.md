@@ -7,6 +7,6 @@
 -Volume of total traded stock.
 
 #For each yr output a summary table displaying:
--Ticker Symbol with Greatest Persent Increase and % value
--Ticker Symbol with Greatest Persent Decrease and % value
--Ticker Symbol with Greatest Total Volume and value
+#-Ticker Symbol with Greatest Persent Increase and % value
+#-Ticker Symbol with Greatest Persent Decrease and % value
+#-Ticker Symbol with Greatest Total Volume and value
